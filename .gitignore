@@ -1,0 +1,11 @@
+/src/bot/src
+/src/bot/CMakeFiles
+/src/bot/elf2uf2
+/src/bot/generated
+/src/bot/libraries
+/src/bot/pico-sdk
+/src/bot/pioasm
+/src/bot/port
+/src/bot/CMakeCache.txt
+/src/bot/cmake_install.cmake
+/src/bot/Makefile
