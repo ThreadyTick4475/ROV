@@ -11,3 +11,4 @@
 /bot/Makefile
 /control/logs
 /control/__pycache__
+/.cache
