@@ -1,3 +1,0 @@
-1
-0
-{"Hash":"","Name":"","Path":"/home/gigachad/ROV/bot/main.c"}
