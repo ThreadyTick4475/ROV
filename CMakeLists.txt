@@ -67,7 +67,7 @@ add_subdirectory(${CMAKE_SOURCE_DIR}/libraries)
 add_subdirectory(${MBEDTLS_DIR})
 add_subdirectory(${PORT_DIR})
 
-add_subdirectory(src)
+add_subdirectory(bot)
 
 # Set compile options
 add_compile_options(

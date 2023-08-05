@@ -35,6 +35,10 @@
 #define _CRT_SECURE_NO_DEPRECATE 1
 #endif
 
+// This makes the code compile, it just might not compile the right way.
+// Update: It seems to compile just fine
+#define MBEDTLS_ECP_DP_SECP521R1_ENABLED
+
 #define MBEDTLS_HAVE_ASM
 #define MBEDTLS_CIPHER_MODE_CBC
 #define MBEDTLS_REMOVE_ARC4_CIPHERSUITES

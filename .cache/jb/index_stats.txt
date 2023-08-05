@@ -1,0 +1,106 @@
+Number of errors = 7
+Number of compiled modules = 0
+No failed modules
+Module /home/gigachad/ROV/libraries/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio.h: 2 errors
+  - unknown type name '__unused'
+  - expected ')'
+Module /home/gigachad/ROV/libraries/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h: 2 errors
+  - unknown type name '__unused'
+  - expected ')'
+Module /home/gigachad/ROV/libraries/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h: 2 errors
+  - unknown type name '__unused'
+  - expected ')'
+Module /home/gigachad/ROV/libraries/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h: 1 errors
+  - use of undeclared identifier 'uartPICO_DEFAULT_UART'
+Processed 1 TUs in
+ - real time = 107ms
+ - indexing CPU time = 62ms
+ - symbols writing CPU time = 13ms
+ - symbols reading CPU time = 0ms
+ - waiting to finish time = 42ms
+TU [/home/gigachad/ROV/bot/main.c] processed in 62ms and succeed.
+
+WAIT TIME:
+Waiting for symbol files took 0ms
+Waiting for modules took 0ms of CPU time
+
+PROCESSED TIMES:
+File /home/gigachad/ROV/port/ioLibrary_Driver/inc/w5x00_spi.h processed 1 times
+File /usr/include/x86_64-linux-gnu/gnu/stubs.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/common/pico_base/include/pico/config.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/wchar.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/common/pico_base/include/pico/assert.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h processed 1 times
+File /home/gigachad/ROV/libraries/ioLibrary_Driver/Ethernet/W5500/w5500.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/interp.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/time64.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/boards/include/boards/pico.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/sio.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/intctrl.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/addressmap.h processed 1 times
+File /usr/include/stdint.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/timer.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/stdint-intn.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/types/FILE.h processed 1 times
+File /usr/include/features.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h processed 1 times
+File /home/gigachad/ROV/bot/generated/pico_base/pico/version.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h processed 1 times
+File /usr/include/x86_64-linux-gnu/sys/cdefs.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/m0plus.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h processed 1 times
+File /usr/include/stdc-predef.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/sys_errlist.h processed 1 times
+File /home/gigachad/.cache/JetBrains/Fleet/language_server/jbclangd/include/stdint.h processed 1 times
+File /usr/include/assert.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/timesize.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/io_bank0.h processed 1 times
+File /home/gigachad/.cache/JetBrains/Fleet/language_server/jbclangd/include/stdarg.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/endian.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/timer.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/common/pico_base/include/pico/types.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/typesizes.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/stdio.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h processed 1 times
+File /home/gigachad/ROV/libraries/ioLibrary_Driver/Ethernet/socket.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h processed 1 times
+File /home/gigachad/ROV/bot/bot/<command line> processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h processed 1 times
+File /home/gigachad/ROV/bot/generated/pico_base/pico/config_autogen.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h processed 1 times
+File /usr/include/x86_64-linux-gnu/gnu/stubs-64.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/long-double.h processed 1 times
+File /usr/include/ctype.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/common/pico_base/include/pico/error.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/types.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/iobank0.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/common/pico_stdlib/include/pico/stdlib.h processed 1 times
+File /usr/include/stdio.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/types/locale_t.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/endianness.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/stdio_lim.h processed 1 times
+File /home/gigachad/.cache/JetBrains/Fleet/language_server/jbclangd/include/__stddef_max_align_t.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/padsbank0.h processed 1 times
+File /usr/include/x86_64-linux-gnu/bits/types/__FILE.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/common/pico_base/include/pico.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/common/pico_time/include/pico/time.h processed 1 times
+File /home/gigachad/ROV/bot/main.c processed 1 times
+File /home/gigachad/ROV/bot/bot/<built-in> processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h processed 1 times
+File /home/gigachad/ROV/libraries/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pads_bank0.h processed 1 times
+File /home/gigachad/.cache/JetBrains/Fleet/language_server/jbclangd/include/stdbool.h processed 1 times
+File /home/gigachad/ROV/libraries/ioLibrary_Driver/Ethernet/wizchip_conf.h processed 2 times
+File /usr/include/x86_64-linux-gnu/bits/libc-header-start.h processed 2 times
+File /home/gigachad/.cache/JetBrains/Fleet/language_server/jbclangd/include/stddef.h processed 2 times
+File /usr/include/x86_64-linux-gnu/bits/wordsize.h processed 3 times
